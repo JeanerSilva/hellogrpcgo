@@ -17,7 +17,7 @@
 // 	protoc-gen-go v1.34.2
 // 	protoc        v5.27.1
 // source: examples/helloworld/helloworld/helloworld.proto
-
+ 
 package helloworld
 
 import (
